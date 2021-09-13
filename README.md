@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kanhaiya-kunwar
-- 👀 I’m interested in Android Development and Java
-- 🌱 I’m currently learning android advanced and advanced java
+- 👀 I’m interested in Android Development and Java.
+- 🌱 I’m currently learning advanced java and android.
 - 📫 How to reach me Email: kanhaiyaakunwar@gmail.com
 
 <!---
